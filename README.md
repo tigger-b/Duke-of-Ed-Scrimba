@@ -1,7 +1,7 @@
 # Duke-of-Ed-Scrimba
-## heading
-1. hello
-1. goodbye
+## Scrimba 
+1. lesson 1 
+1. lesson 2 
 
 - hello
 - goodbye
