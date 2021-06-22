@@ -25,3 +25,10 @@ He taught me how to do this :)))
 print("hello world")
 ```
 
+22.06.21
+Finished Scrimba lessons
+lesson 7
+lesson 8
+lesson 9
+
+
