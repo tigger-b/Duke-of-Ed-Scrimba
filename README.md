@@ -38,5 +38,6 @@ Meeting with Michael
 06.07.21
 Finished Scrimba excersise
 lesson 10
+lesson 11
 
 
