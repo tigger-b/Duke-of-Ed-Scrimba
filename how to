@@ -1,0 +1,7 @@
+How to run python app with Flask
+
+```
+path = python-web-app 
+source venv/bin/activate
+flask run
+```
